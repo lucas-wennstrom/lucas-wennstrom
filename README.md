@@ -20,7 +20,7 @@ Building things in C++ · Learning Rust · Interested in systems programming & g
 ## Projects
 
 ### 2d Mining simulator
-> A C++ + SFML recreation of [Coal LLC](https://store.steampowered.com/app/...) — built as a group project at LiU.
+> A C++ + SFML recreation of [Coal LLC](https://store.steampowered.com/app/3361510/Coal_LLC/) — built as a group project at LiU.
 
 Focused on 2D rendering, game loop architecture and working in a team with version control.
 
